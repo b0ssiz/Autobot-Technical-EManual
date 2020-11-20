@@ -1,0 +1,6 @@
+site_name: Autobot Technical E-Manual
+nav:
+    - Home: index.md
+    - About: about.md
+    - Mini : mini.md
+theme: readthedocs
