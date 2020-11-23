@@ -1,6 +1,7 @@
 site_name: Autobot Technical E-Manual
 nav:
-    - Home: index.md
-    - About: about.md
+    # - Home: index.md
+    # - About: about.md
     - Mini : mini.md
+    - Lazer 4: lazer4.md
 theme: readthedocs
