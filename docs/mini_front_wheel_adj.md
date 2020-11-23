@@ -1,13 +1,4 @@
-# คู่มือการใช้งานและแก้ปัญหาเบื้องต้นของหุ่นยนต์รุ่น Mini
-
-## วิธีปรับ sensor กันตก
-1. หงายตัวหุ่นยนต์ขึ้น
-<br/><br/>
-![Mini](https://github.com/b0ssiz/Autobot-Technical-EManual/blob/master/images/mini/Ref1.jpg?raw=true)
-<br/><br/>
-2. ปรับตำแหน่งของเซนเซอร์ให้ได้ตำแหน่งดังภาพเพื่อให้การประมวลผลไม่ผิดพลาด
----
-## วิธีถอดเปลี่ยนล้อหน้าของรุ่น Mini
+# วิธีถอดเปลี่ยนล้อหน้าของรุ่น Mini
 1. หงายตัวหุ่นยนต์ขึ้น
 <br/><br/>
 ![Mini](https://github.com/b0ssiz/Autobot-Technical-EManual/blob/master/images/mini/Ref2.jpg?raw=true)

@@ -1,7 +1,8 @@
 site_name: Autobot Technical E-Manual
 nav:
-    # - Home: index.md
-    # - About: about.md
-    - Mini : mini.md
-    - Lazer 4: lazer4.md
+    - Mini :
+        - 'วิธีปรับตำแหน่ง Sensor กันตก' : mini_sensor_adj.md
+        - 'วิธีถอดเปลี่ยนล้อหน้า' : mini_front_wheel_adj.md
+    - Lazer 4: 
+        - 'วิธีเชื่อมต่อ Lazer 4 เพื่อสั่งงานผ่านโทรศัพท์มือถือ' : lazer4.md
 theme: readthedocs
