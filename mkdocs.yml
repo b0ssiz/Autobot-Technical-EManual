@@ -7,4 +7,6 @@ nav:
         - 'วิธีเชื่อมต่อ Lazer 4 เพื่อสั่งงานผ่านโทรศัพท์มือถือ' : lazer4_app_con.md
         - 'วิธีสร้างและเพิ่ม Map ของหุ่นยนต์ Lazer 4' : lazer4_mapping.md
         - 'วิธีกั้นพื้นที่ (Virtual Wall)' : lazer4_virtual_wall.md
+    - Dibea F20Max/Dibea F20Plus:
+        - 'วิธีถอดแปรง Dibea F20Max/Dibea F20Plus เพื่อทำความสะอาด' : f20_brush_cleaning.md
 theme: readthedocs
