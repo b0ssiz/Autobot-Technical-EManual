@@ -5,4 +5,5 @@ nav:
         - 'วิธีถอดเปลี่ยนล้อหน้า' : mini_front_wheel_adj.md
     - Lazer 4: 
         - 'วิธีเชื่อมต่อ Lazer 4 เพื่อสั่งงานผ่านโทรศัพท์มือถือ' : lazer4.md
+        - 'วิธีสร้างและเพิ่ม Map ของหุ่นยนต์ Lazer 4' : lazer4_mapping.md
 theme: readthedocs
